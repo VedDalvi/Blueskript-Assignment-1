@@ -1,0 +1,63 @@
+[{
+    "id": 1,
+    "task": "Wash the Car",
+    "complete": true
+  }, {
+    "id": 2,
+    "task": "Do laundry",
+    "complete": true
+  }, {
+    "id": 3,
+    "task": "Mop the floor",
+    "complete": false
+  }, {
+    "id": 4,
+    "task": "Feed cat",
+    "complete": true
+  }, {
+    "id": 5,
+    "task": "Change light bulbs",
+    "complete": false
+  }, {
+    "id": 6,
+    "task": "Get Milk",
+    "complete": true
+  }, {
+    "id": 7,
+    "task": "Fill gas tank",
+    "complete": true
+  }, {
+    "id": 8,
+    "task": "Change the Bedsheets",
+    "complete": false
+  }, {
+    "id": 9,
+    "task": "Tidy the Garden",
+    "complete": true
+  }, {
+    "id": 10,
+    "task": "Clean Shelves",
+    "complete": false
+  }, {
+    "id": 11,
+    "task": "Arrange the Bookshelves",
+    "complete": true
+  }, {
+    "id": 12,
+    "task": "Register for NPTEL exams",
+    "complete": true
+  }, {
+    "id": 13,
+    "task": "Get Batteries",
+    "complete": false
+  }, {
+    "id": 14,
+    "task": "Organize Desk",
+    "complete": false
+  }, {
+    "id": 15,
+    "task": "Hang Laundry to Dry",
+    "complete": false
+  }
+    
+  ]
