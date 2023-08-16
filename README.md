@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Project Features:   -Add a Task
+                    -View All , Completed and Pending tasks
+                    -Click on task to toggle between completed and pending
+                    -Dynamic switching between All,Pending and Completed Tasks; modifications to tasks are saved (within the current session)
